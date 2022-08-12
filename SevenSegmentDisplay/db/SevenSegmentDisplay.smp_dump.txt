@@ -1,0 +1,7 @@
+
+State Machine - |SevenSegmentDisplay|SMState
+Name SMState.DIGIT_4 SMState.DIGIT_3 SMState.DIGIT_2 SMState.DIGIT_1 
+SMState.DIGIT_1 0 0 0 0 
+SMState.DIGIT_2 0 0 1 1 
+SMState.DIGIT_3 0 1 0 1 
+SMState.DIGIT_4 1 0 0 1 
